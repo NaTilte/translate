@@ -1,0 +1,9 @@
+out/
+build/
+.vs/
+*.h264
+CMakeUserPresets.json
+*.user
+# secrets are never committed
+.env
+config.local.*
